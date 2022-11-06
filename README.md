@@ -4,3 +4,8 @@
 1
 2
 add
+stash
+work11111
+
+fork commit
+
