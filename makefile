@@ -20,6 +20,12 @@ gitSwitch:
 	git checkout main
 
 
+##查看branch 和master 比较的新的commit
+compare-log:
+	git log main..add-1
+
+
+
 
 
 
