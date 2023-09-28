@@ -3,7 +3,7 @@ gitCheckout:
 
 gitModifyAndAdd:
 	git add .
-	git commit -m 'fix'
+	git commit -m 'delete branch'
 	git push
 
 gitMergeMaster:
